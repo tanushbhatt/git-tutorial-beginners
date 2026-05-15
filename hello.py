@@ -1,3 +1,3 @@
-# this is python file for hello
+# this is hello.py file
 import pandas as pd
-import numpy ad np
+import numpy as np
