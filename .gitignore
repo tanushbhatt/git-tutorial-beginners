@@ -4,7 +4,7 @@ passwords.txt
 extra_dir/
 **/*.txt    
 !imp.log
-
+contact.html
 
 # **/*.txt      =>   is to ignore all txt files from any directories where txt files are there
 # extra_dir/    =>   to ignore specific dir
