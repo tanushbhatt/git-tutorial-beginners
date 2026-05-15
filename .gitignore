@@ -1,0 +1,13 @@
+db.sql
+passwords.txt
+*.log
+extra_dir/
+**/*.txt    
+!imp.log
+
+
+# **/*.txt      =>   is to ignore all txt files from any directories where txt files are there
+# extra_dir/    =>   to ignore specific dir
+# *.log         =>   to ignore all the log files
+# pass.txt      =>   to ignore a specific file
+# !important.log =>  Exception: Track this file even if ignored
